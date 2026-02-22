@@ -1,4 +1,5 @@
 <Solution>
   <Project Path="HashCrackLab.Api/HashCrackLab.Api.csproj" />
+  <Project Path="HashCrackLab.Core/HashCrackLab.Core.csproj" />
   <Project Path="HashCrackLab.Worker/HashCrackLab.Worker.csproj" />
 </Solution>
